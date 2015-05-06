@@ -1,16 +1,18 @@
 # COMP5347A2
 
-##Applied technology
+##Technology involved
 Struts2, Ajax, REST, Third-party APIs(Flickr), mysql
 
 ##Project specification
 refer to Assignment.pdf
 
-##Requirement to run the project
-Two different Tomcat server
-Sql server
-
 ##How to run
+###Requirements
+Two different Tomcat server 
+Sql server
+Java 1.7 or late
+
+###steps
 1.execute A2.sql script in mysql server
 
 2.config two seperate Tomcat server
