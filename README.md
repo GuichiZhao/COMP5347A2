@@ -17,9 +17,11 @@ Java 1.7 or late
 
 2.config two seperate Tomcat server
   one for front end:
+  
   Tomcat Admin port number: 8005
   HTTP/1.1 port number: 8090
   AJP/1.3 port number: 8009
+  
   another for shiping component
   Tomcat Admin port number: 9005
   HTTP/1.1 port number: 9000
