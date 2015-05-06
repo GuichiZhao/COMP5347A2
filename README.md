@@ -1,0 +1,2 @@
+# COMP5347A2
+A simple E-Commerce System consists of three components: a web front end powered by Struts2 running on local host, a shipping component running on a separate server within the same administrative domain and an inventory component running on third party premises. The inventory component provides basic product information such as product id, name and price. Suppose our simple E-Commerce System specialises in selling photos. We use flickr.com to simulate an inventory component and communicate with it through flickr API
