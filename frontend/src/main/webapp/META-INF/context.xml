@@ -1,0 +1,14 @@
+
+<Context >
+    <Resource name="jdbc/Assignment2"
+              type="javax.sql.DataSource"
+              username="root" 
+              driverClassName="com.mysql.jdbc.Driver"
+              maxIdle="2"
+              maxWait="5000"
+              validationQuery="SELECT * FROM users"
+              url="jdbc:mysql://localhost:3306/comp5347_assignment2"
+              maxActive="4" 
+              poolPreparedStatements="true"
+              />
+</Context>
