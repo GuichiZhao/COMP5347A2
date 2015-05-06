@@ -8,9 +8,9 @@ refer to Assignment.pdf
 
 ##How to run
 ###Requirements
-Two different Tomcat server 
-Sql server
-Java 1.7 or late
+- Two different Tomcat server 
+- MySql server
+- Java 1.7 or late
 
 ###steps
 1. execute A2.sql script in mysql server
