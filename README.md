@@ -1,7 +1,7 @@
 # COMP5347A2
 
 ##Applied technology
-Struts2 Ajax REST Third-party APIs(Flickr) mysql
+Struts2, Ajax, REST, Third-party APIs(Flickr), mysql
 
 ##Aroject specification
 refer to Assignment.pdf
@@ -23,4 +23,4 @@ Sql server
   AJP/1.3 port number: 9009
 3.modify frontend and shipping pom.xml individually
 in order to match the tomcat dependencies to your own runtime target
-4.build the project and deploy them to each server
+4.build the project and deploy them to each server accordinglly
