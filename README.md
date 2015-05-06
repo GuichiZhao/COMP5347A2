@@ -3,10 +3,10 @@
 ##Applied technology
 Struts2, Ajax, REST, Third-party APIs(Flickr), mysql
 
-##Aroject specification
+##Project specification
 refer to Assignment.pdf
 
-##Aequirement to run the project
+##Requirement to run the project
 Two different Tomcat server
 Sql server
 
