@@ -1,12 +1,12 @@
 # COMP5347A2
 
-##applied technology
+##Applied technology
 Struts2 Ajax REST Third-party APIs(Flickr) mysql
 
-##project specification
+##Aroject specification
 refer to Assignment.pdf
 
-##requirement to run the project
+##Aequirement to run the project
 Two different Tomcat server
 Sql server
 
