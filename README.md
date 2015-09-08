@@ -10,7 +10,7 @@ refer to Assignment.pdf
 ###Requirements
 - Two different Tomcat server 
 - MySql server
-- Java 1.7 or late
+- Java 1.7 or later
 
 ###steps
 1. execute A2.sql script in mysql server
